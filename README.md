@@ -18,7 +18,7 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
   <tr>
     <td>
       <h3>🚀 Version 2 is available</h3>
-      <p>NVM for Windows has been fully rewritten for modern workflows.</p>
+      <p>NVM for Windows has been <a href="https://medium.com/@goldglovecb/why-we-rewrote-nvm-for-windows-3b6fa5be3e7f?sharedUserId=goldglovecb">fully rewritten</a> for modern workflows.</p>
       <p><strong><a href="https://docs.nvm-windows.com/features/newv2">Explore what’s new →</a></strong></p>
     </td>
   </tr>
