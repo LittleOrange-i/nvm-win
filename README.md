@@ -60,7 +60,7 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
 
 Commercial **Certified Builds** are now available for controlled environments. [Learn more](https://nvm-windows.com/certified).
 
-Not sure which edition is right for you? See [Choosing an Edition](https://docs.nvm-windows.com/guide/builds/).
+Not sure which edition is right for you? See [Choosing a Build](https://docs.nvm-windows.com/guide/builds/).
 
 |Feature|Description|
 |:-|:-|
